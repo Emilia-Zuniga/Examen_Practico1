@@ -13,8 +13,9 @@ Las personas estudiantes deben diseñar e implementar la lógica de programació
 
 ## Integrantes del Equipo:
 
-Pedro Octavio Culebro Prado - B200227
-Emilia Zuñiga Losada - B200152
+Pedro Octavio Culebro Prado - B200227.
+
+Emilia Zuñiga Losada - B200152.
 
 ## Configuración de la Aplicación Web:
 

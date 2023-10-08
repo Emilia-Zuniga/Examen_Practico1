@@ -27,7 +27,7 @@ Emilia Zuñiga Losada - B200152
 ### Clonar el repositorio: 
 
    ```bash
-   git clone https://github.com/christianmce/unach/tree/master/desarrollo_web/appweb](https://github.com/Emilia-Zuniga/Examen_Practico1
+   git clone https://github.com/Emilia-Zuniga/Examen_Practico1
    ```
 
 
